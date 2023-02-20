@@ -10,7 +10,7 @@ function App() {
     <>
       <Header/>
       <Routes>
-        <Route path='/' element={<Cards/>}/>
+        <Route path='/ReactReduxEcommWebsite' element={<Cards/>}/>
         <Route path='/cart/:id' element={<CardsDetails/>}/>
 
       </Routes>
