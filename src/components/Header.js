@@ -58,7 +58,7 @@ const Header = () => {
         <Container>
           <NavLink to="/" className="text-decoration-none text-white mx-4">E-Commerce</NavLink>
           <Nav className="me-auto">
-            <NavLink to="/" className="text-decoration-none text-white">HOME</NavLink>
+            <NavLink to="/ReactReduxEcommWebsite" className="text-decoration-none text-white">HOME</NavLink>
           </Nav>
           
 
